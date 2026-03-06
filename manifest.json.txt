@@ -1,0 +1,17 @@
+{
+  "name": "Warunge Budhe-Pakdhe",
+  "short_name": "Warunge Budhe-Pakdhe",
+  "name": "Warung Makan Digital Pro",
+  "icons": [
+       {
+      "src": "logo-warung.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "index.html",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "./",
+  "theme_color": "#ef4444"
+}
