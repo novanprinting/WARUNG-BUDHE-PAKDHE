@@ -141,7 +141,7 @@
     </div>
 
     <script>
-        const WA_NUMBER = "6281226239220";
+        const WA_NUMBER = "6288806611964";
         
         const products = [
             { id: 1, name: "Indomie Rebus Ayam Special", price: 6000, cat: "makanan", desc: "Indomie Rebus Rasa Ayam Special", img: "INDOMIE/INDOMIEAYAMSPECIAL.jpg", toppings: [{n: "Sosis", p: 1000}, {n: "Bakso", p: 1000}, {n: "Pakai Sayur", p: 0}, {n: "Tanpa Sayur", p: 0}] },
@@ -329,11 +329,11 @@
     if (!address) return alert("Mohon isi Alamat atau Nomor Meja");
 
     let total = 0;
-    let text = `*PESANAN BARU - WARUNG KITA*\n`;
+    let text = `*PESANAN BARU - WARUNG BUDHE-PAKDHE*\n`;
     text += `--------------------------------\n`;
-    text += `?? *Nama:* ${name}\n`;
-    text += `?? *Alamat:* ${address}\n`;
-    text += `?? *Metode:* ${method}\n`;
+    text += `*Nama:* ${name}\n`;
+    text += `*Alamat:* ${address}\n`;
+    text += `*Metode:* ${method}\n`;
     text += `--------------------------------\n\n`;
     
     cart.forEach((item, i) => {
@@ -351,7 +351,7 @@
     text += `--------------------------------\n`;
     text += `*TOTAL AKHIR: Rp ${total.toLocaleString()}*\n`;
     text += `--------------------------------\n`;
-    text += `_Mohon segera diproses ya, terima kasih!_`;
+    text += `_Mohon segera diproses ya, terima kasih_`;
     
     const encodedText = encodeURIComponent(text);
     window.open(`https://wa.me/${WA_NUMBER}?text=${encodedText}`);
@@ -372,6 +372,7 @@
 </body>
 
 </html>
+
 
 
 
