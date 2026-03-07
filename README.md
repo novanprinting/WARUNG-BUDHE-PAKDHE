@@ -5,7 +5,7 @@ Aplikasi menu digital responsif yang memungkinkan pelanggan memilih makanan, men
 ## Fitur Utama
 - [cite_start]**Filter Menu:** Memisahkan makanan, minuman, dan camilan dengan mudah.
 - [cite_start]**Custom Toppings:** Pelanggan bisa menambah ekstra (seperti Bakso, Sosis, atau Telur) dengan perhitungan harga otomatis[cite: 23, 45].
-- [cite_start]**WhatsApp Integration:** Pesanan dikirim dalam format teks rapi ke nomor WhatsApp `+6281226239220`[cite: 22, 56].
+- [cite_start]**WhatsApp Integration:** Pesanan dikirim dalam format teks rapi ke nomor WhatsApp `+6288806611964`[cite: 22, 56].
 - [cite_start]**Responsive Design:** Optimal untuk penggunaan di smartphone (Mobile First)[cite: 1].
 
 ## Teknologi yang Digunakan
